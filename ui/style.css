@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: cyan;
+    background-color: orange;
     margin-top: 75px;
 }
 
@@ -9,12 +9,11 @@ body {
 }
 
 .text-big {
-    font-size: 300%;
+    font-size: 250%;
 }
 
 .bold {
     font-weight: bold;
-    font-style: italic;
 }
 
 .img-medium {
